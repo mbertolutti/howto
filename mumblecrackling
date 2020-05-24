@@ -1,0 +1,3 @@
+# /etc/pulse/default.pa
+load-module module-udev-detect tsched=0
+
